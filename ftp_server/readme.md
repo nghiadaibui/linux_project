@@ -1,6 +1,6 @@
-#FTP Server
+# FTP Server
 
-##Commands implemented
+## Commands implemented
 ABOR
 CWD
 DELE
@@ -17,13 +17,13 @@ STOR
 TYPE
 USER
 
-##How it work
+## How it work
 -user login
 -dir
 -get file
 -put file
 
-##References
+## References
 https://www.nsftools.com/tips/RawFTP.htm
 https://www.sysax.com/ftpauto/ftpconsole/
 https://www.w3.org/Protocols/rfc959/4_FileTransfer.html
